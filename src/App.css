@@ -4,6 +4,7 @@
   --mainWhite:#f3f3f3;
   --mainDark:#232528;
   --mainYellow:#ffa400;
+  --mainRed:#ff0000;
 }
 
 body{
@@ -19,7 +20,7 @@ body{
 }
 
 .text-blue{
-  color: var(--mainBlue);
+  color: var(--mainRed);
 }
 
 .text-bright{
@@ -45,3 +46,4 @@ body{
   font-size: 1.2rem;
   color: var(--mainYellow);
 }
+
